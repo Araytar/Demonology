@@ -8,11 +8,11 @@
 
 ---
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/yourusername/yourrepository/build.yml?branch=main&label=Build&logo=github&style=flat-square)](https://github.com/yourusername/yourrepository/actions)  
-[![Mod Version](https://img.shields.io/github/v/release/yourusername/yourrepository?label=Version&logo=minecraft&style=flat-square)](https://github.com/yourusername/yourrepository/releases)  
+[![Build Status](https://img.shields.io/github/actions/workflow/status/Araytar/Demonology/build.yml?branch=main&label=Build&logo=github&style=flat-square)](https://github.com/Araytar/Demonology/actions)  
+[![Mod Version](https://img.shields.io/github/v/release/Araytar/Demonology?label=Version&logo=minecraft&style=flat-square)](https://github.com/Araytar/Demonology/releases)  
 [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21+-blue?style=flat-square&logo=java)](#)  
 [![License](https://img.shields.io/github/license/yourusername/yourrepository?style=flat-square)](LICENSE)  
-[![Contributors](https://img.shields.io/github/contributors/yourusername/yourrepository?style=flat-square)](https://github.com/yourusername/yourrepository/graphs/contributors)  
+[![Contributors](https://img.shields.io/github/contributors/Araytar/Demonology?style=flat-square)](https://github.com/Araytar/Demonology/graphs/contributors)  
 
 ---
 
